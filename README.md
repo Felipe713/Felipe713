@@ -66,8 +66,4 @@
   <img src="https://komarev.com/ghpvc/?username=Felipe713&color=brightgreen" alt="visitas al perfil">
 </p>
 
-<!-- Snake graph -->
-<p align="center">
-  <img src="https://github.com/Felipe713/Felipe713/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
-</p>
 
